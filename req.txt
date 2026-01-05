@@ -1,0 +1,11 @@
+kernel 3.10 version
+pip install phidata streamlit requests fpdf python-dotenv
+streamlit run app.py(show web page)
+
+
+
+
+
+
+
+
